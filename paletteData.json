@@ -1,0 +1,3655 @@
+{
+    "children": [
+        {
+            "id": "2.1",
+            "name": "2D_texture_array_averager.tox",
+            "path": "\\2D_texture_array_averager.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.2",
+            "name": "beatfollower.tox",
+            "path": "\\beatfollower.tox",
+            "type": "file"
+        },
+        {
+            "children": [
+                {
+                    "id": "2.3.1",
+                    "name": "animation_keyframe_upload.tox",
+                    "path": "\\CHOPs\\animation_keyframe_upload.tox",
+                    "type": "file"
+                },
+                {
+                    "children": [
+                        {
+                            "id": "2.3.2.1",
+                            "name": "README.md",
+                            "path": "\\CHOPs\\Blend\\README.md",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.3.2.2",
+                            "name": "switch_chop_blend.tox",
+                            "path": "\\CHOPs\\Blend\\switch_chop_blend.tox",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.3.2",
+                    "name": "Blend",
+                    "path": "\\CHOPs\\Blend",
+                    "type": "directory"
+                },
+                {
+                    "id": "2.3.3",
+                    "name": "calculate_compact_tex_size_resolution.tox",
+                    "path": "\\CHOPs\\calculate_compact_tex_size_resolution.tox",
+                    "type": "file"
+                },
+                {
+                    "children": [
+                        {
+                            "id": "2.3.4.1",
+                            "name": "logic_bounds.tox",
+                            "path": "\\CHOPs\\Logic\\logic_bounds.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.3.4.2",
+                            "name": "README.md",
+                            "path": "\\CHOPs\\Logic\\README.md",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.3.4",
+                    "name": "Logic",
+                    "path": "\\CHOPs\\Logic",
+                    "type": "directory"
+                },
+                {
+                    "children": [
+                        {
+                            "id": "2.3.5.1",
+                            "name": "ADSR_Lookup.tox",
+                            "path": "\\CHOPs\\Lookup\\ADSR_Lookup.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.3.5.2",
+                            "name": "almostIdentity.tox",
+                            "path": "\\CHOPs\\Lookup\\almostIdentity.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.3.5.3",
+                            "name": "distance_between.tox",
+                            "path": "\\CHOPs\\Lookup\\distance_between.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.3.5.4",
+                            "name": "random_sample.tox",
+                            "path": "\\CHOPs\\Lookup\\random_sample.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.3.5.5",
+                            "name": "README.md",
+                            "path": "\\CHOPs\\Lookup\\README.md",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.3.5.6",
+                            "name": "sCurve.tox",
+                            "path": "\\CHOPs\\Lookup\\sCurve.tox",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.3.5",
+                    "name": "Lookup",
+                    "path": "\\CHOPs\\Lookup",
+                    "type": "directory"
+                },
+                {
+                    "children": [
+                        {
+                            "id": "2.3.6.1",
+                            "name": "analyze_variance.tox",
+                            "path": "\\CHOPs\\Math\\analyze_variance.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.3.6.2",
+                            "name": "calculate_compact_tex_size.tox",
+                            "path": "\\CHOPs\\Math\\calculate_compact_tex_size.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.3.6.3",
+                            "name": "catmull_rom.tox",
+                            "path": "\\CHOPs\\Math\\catmull_rom.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.3.6.4",
+                            "name": "circular_phase.toe",
+                            "path": "\\CHOPs\\Math\\circular_phase.toe",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.3.6.5",
+                            "name": "cross_product.tox",
+                            "path": "\\CHOPs\\Math\\cross_product.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.3.6.6",
+                            "name": "normalize.tox",
+                            "path": "\\CHOPs\\Math\\normalize.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.3.6.7",
+                            "name": "numpy_distance_pairs.tox",
+                            "path": "\\CHOPs\\Math\\numpy_distance_pairs.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.3.6.8",
+                            "name": "README.md",
+                            "path": "\\CHOPs\\Math\\README.md",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.3.6.9",
+                            "name": "smootherstep.tox",
+                            "path": "\\CHOPs\\Math\\smootherstep.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.3.6.10",
+                            "name": "smoothstep.tox",
+                            "path": "\\CHOPs\\Math\\smoothstep.tox",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.3.6",
+                    "name": "Math",
+                    "path": "\\CHOPs\\Math",
+                    "type": "directory"
+                },
+                {
+                    "children": [
+                        {
+                            "id": "2.3.7.1",
+                            "name": "midi_playback.tox",
+                            "path": "\\CHOPs\\MIDI\\midi_playback.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.3.7.2",
+                            "name": "README.md",
+                            "path": "\\CHOPs\\MIDI\\README.md",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.3.7",
+                    "name": "MIDI",
+                    "path": "\\CHOPs\\MIDI",
+                    "type": "directory"
+                },
+                {
+                    "children": [
+                        {
+                            "id": "2.3.8.1",
+                            "name": "midi_map_nanoKONTROL_to_AKAImpd26.tox",
+                            "path": "\\CHOPs\\MIDI_Mappings\\midi_map_nanoKONTROL_to_AKAImpd26.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.3.8.2",
+                            "name": "nanokontrol2_midi_map.tox",
+                            "path": "\\CHOPs\\MIDI_Mappings\\nanokontrol2_midi_map.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.3.8.3",
+                            "name": "NovationLaunchControl.tox",
+                            "path": "\\CHOPs\\MIDI_Mappings\\NovationLaunchControl.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.3.8.4",
+                            "name": "NovationLaunchControlToggle.tox",
+                            "path": "\\CHOPs\\MIDI_Mappings\\NovationLaunchControlToggle.tox",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.3.8",
+                    "name": "MIDI_Mappings",
+                    "path": "\\CHOPs\\MIDI_Mappings",
+                    "type": "directory"
+                },
+                {
+                    "children": [
+                        {
+                            "id": "2.3.9.1",
+                            "name": "independent_noise.tox",
+                            "path": "\\CHOPs\\Noise\\independent_noise.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.3.9.2",
+                            "name": "looping_noise.tox",
+                            "path": "\\CHOPs\\Noise\\looping_noise.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.3.9.3",
+                            "name": "README.md",
+                            "path": "\\CHOPs\\Noise\\README.md",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.3.9",
+                    "name": "Noise",
+                    "path": "\\CHOPs\\Noise",
+                    "type": "directory"
+                },
+                {
+                    "children": [
+                        {
+                            "id": "2.3.10.1",
+                            "name": "chop_simplify.tox",
+                            "path": "\\CHOPs\\Stretch\\chop_simplify.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.3.10.2",
+                            "name": "README.md",
+                            "path": "\\CHOPs\\Stretch\\README.md",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.3.10",
+                    "name": "Stretch",
+                    "path": "\\CHOPs\\Stretch",
+                    "type": "directory"
+                },
+                {
+                    "id": "2.3.11",
+                    "name": "switch_between_audio_files_smoothly.tox",
+                    "path": "\\CHOPs\\switch_between_audio_files_smoothly.tox",
+                    "type": "file"
+                },
+                {
+                    "children": [
+                        {
+                            "id": "2.3.12.1",
+                            "name": "parallel_timer_cycler.tox",
+                            "path": "\\CHOPs\\Timer\\parallel_timer_cycler.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.3.12.2",
+                            "name": "README.md",
+                            "path": "\\CHOPs\\Timer\\README.md",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.3.12",
+                    "name": "Timer",
+                    "path": "\\CHOPs\\Timer",
+                    "type": "directory"
+                },
+                {
+                    "children": [
+                        {
+                            "id": "2.3.13.1",
+                            "name": "beat_trigger.tox",
+                            "path": "\\CHOPs\\Trigger\\beat_trigger.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.3.13.2",
+                            "name": "random_trigger.tox",
+                            "path": "\\CHOPs\\Trigger\\random_trigger.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.3.13.3",
+                            "name": "README.md",
+                            "path": "\\CHOPs\\Trigger\\README.md",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.3.13",
+                    "name": "Trigger",
+                    "path": "\\CHOPs\\Trigger",
+                    "type": "directory"
+                },
+                {
+                    "id": "2.3.14",
+                    "name": "tweener_619db8de9b.tox",
+                    "path": "\\CHOPs\\tweener_619db8de9b.tox",
+                    "type": "file"
+                }
+            ],
+            "id": "2.3",
+            "name": "CHOPs",
+            "path": "\\CHOPs",
+            "type": "directory"
+        },
+        {
+            "id": "2.4",
+            "name": "circle_packing.tox",
+            "path": "\\circle_packing.tox",
+            "type": "file"
+        },
+        {
+            "id": "2.5",
+            "name": "colour_lovers_picker_0 (1).tox",
+            "path": "\\colour_lovers_picker_0 (1).tox",
+            "type": "file"
+        },
+        {
+            "children": [
+                {
+                    "id": "2.6.1",
+                    "name": "AnimationKeyframe.tox",
+                    "path": "\\COMPs\\AnimationKeyframe.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.6.2",
+                    "name": "Null_Transform.tox",
+                    "path": "\\COMPs\\Null_Transform.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.6.3",
+                    "name": "README.md",
+                    "path": "\\COMPs\\README.md",
+                    "type": "file"
+                },
+                {
+                    "id": "2.6.4",
+                    "name": "template_container.tox",
+                    "path": "\\COMPs\\template_container.tox",
+                    "type": "file"
+                }
+            ],
+            "id": "2.6",
+            "name": "COMPs",
+            "path": "\\COMPs",
+            "type": "directory"
+        },
+        {
+            "children": [
+                {
+                    "id": "2.7.1",
+                    "name": "csv_reader.tox",
+                    "path": "\\DATs\\csv_reader.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.7.2",
+                    "name": "generate_ply.tox",
+                    "path": "\\DATs\\generate_ply.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.7.3",
+                    "name": "make_define_statements.tox",
+                    "path": "\\DATs\\make_define_statements.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.7.4",
+                    "name": "random_sample.tox",
+                    "path": "\\DATs\\random_sample.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.7.5",
+                    "name": "raymarching_tutorial_vanta.tox",
+                    "path": "\\DATs\\raymarching_tutorial_vanta.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.7.6",
+                    "name": "README.md",
+                    "path": "\\DATs\\README.md",
+                    "type": "file"
+                },
+                {
+                    "id": "2.7.7",
+                    "name": "xml_query.toe",
+                    "path": "\\DATs\\xml_query.toe",
+                    "type": "file"
+                },
+                {
+                    "id": "2.7.8",
+                    "name": "xml_query.tox",
+                    "path": "\\DATs\\xml_query.tox",
+                    "type": "file"
+                }
+            ],
+            "id": "2.7",
+            "name": "DATs",
+            "path": "\\DATs",
+            "type": "directory"
+        },
+        {
+            "children": [
+                {
+                    "id": "2.8.1",
+                    "name": "AnimationKeyframeImportExt.py",
+                    "path": "\\Extensions\\AnimationKeyframeImportExt.py",
+                    "type": "file"
+                },
+                {
+                    "id": "2.8.2",
+                    "name": "ImageInstanceExt.py",
+                    "path": "\\Extensions\\ImageInstanceExt.py",
+                    "type": "file"
+                },
+                {
+                    "id": "2.8.3",
+                    "name": "ImageInstancingInstancesExt.py",
+                    "path": "\\Extensions\\ImageInstancingInstancesExt.py",
+                    "type": "file"
+                }
+            ],
+            "id": "2.8",
+            "name": "Extensions",
+            "path": "\\Extensions",
+            "type": "directory"
+        },
+        {
+            "id": "2.9",
+            "name": "galaxy_background.tox",
+            "path": "\\galaxy_background.tox",
+            "type": "file"
+        },
+        {
+            "children": [
+                {
+                    "id": "2.10.1",
+                    "name": "glsl_mat_normal.tox",
+                    "path": "\\MATs\\glsl_mat_normal.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.10.2",
+                    "name": "README.md",
+                    "path": "\\MATs\\README.md",
+                    "type": "file"
+                }
+            ],
+            "id": "2.10",
+            "name": "MATs",
+            "path": "\\MATs",
+            "type": "directory"
+        },
+        {
+            "id": "2.11",
+            "name": "paletteData.json",
+            "path": "\\paletteData.json",
+            "type": "file"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "id": "2.12.1.1",
+                            "name": "cara_photo_shoot.tox",
+                            "path": "\\Projects\\cara\\cara_photo_shoot.tox",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.12.1",
+                    "name": "cara",
+                    "path": "\\Projects\\cara",
+                    "type": "directory"
+                },
+                {
+                    "children": [
+                        {
+                            "id": "2.12.2.1",
+                            "name": "growth_physarum.tox",
+                            "path": "\\Projects\\interactive growth\\growth_physarum.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.12.2.2",
+                            "name": "heightmap_dev.tox",
+                            "path": "\\Projects\\interactive growth\\heightmap_dev.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.12.2.3",
+                            "name": "interactive growth.tox",
+                            "path": "\\Projects\\interactive growth\\interactive growth.tox",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.12.2",
+                    "name": "interactive growth",
+                    "path": "\\Projects\\interactive growth",
+                    "type": "directory"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "id": "2.12.3.1.1",
+                                    "name": "abstract consciousness.tox",
+                                    "path": "\\Projects\\kino\\abstract consciousness\\abstract consciousness.tox",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.12.3.1",
+                            "name": "abstract consciousness",
+                            "path": "\\Projects\\kino\\abstract consciousness",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "id": "2.12.3.2.1.1",
+                                            "name": "movement1.tox",
+                                            "path": "\\Projects\\kino\\living\\final cuts\\movement1.tox",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.12.3.2.1.2",
+                                            "name": "movement2.tox",
+                                            "path": "\\Projects\\kino\\living\\final cuts\\movement2.tox",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.12.3.2.1.3",
+                                            "name": "movement3.tox",
+                                            "path": "\\Projects\\kino\\living\\final cuts\\movement3.tox",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.12.3.2.1.4",
+                                            "name": "movement4.tox",
+                                            "path": "\\Projects\\kino\\living\\final cuts\\movement4.tox",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.12.3.2.1.5",
+                                            "name": "movement4_for_screenshots.tox",
+                                            "path": "\\Projects\\kino\\living\\final cuts\\movement4_for_screenshots.tox",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.12.3.2.1.6",
+                                            "name": "poster inset.tox",
+                                            "path": "\\Projects\\kino\\living\\final cuts\\poster inset.tox",
+                                            "type": "file"
+                                        }
+                                    ],
+                                    "id": "2.12.3.2.1",
+                                    "name": "final cuts",
+                                    "path": "\\Projects\\kino\\living\\final cuts",
+                                    "type": "directory"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "id": "2.12.3.2.2.1",
+                                            "name": "movement1_animation.tox",
+                                            "path": "\\Projects\\kino\\living\\movement demos\\movement1_animation.tox",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.12.3.2.2.2",
+                                            "name": "movement2_animation.tox",
+                                            "path": "\\Projects\\kino\\living\\movement demos\\movement2_animation.tox",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.12.3.2.2.3",
+                                            "name": "movementIV_animation1.tox",
+                                            "path": "\\Projects\\kino\\living\\movement demos\\movementIV_animation1.tox",
+                                            "type": "file"
+                                        }
+                                    ],
+                                    "id": "2.12.3.2.2",
+                                    "name": "movement demos",
+                                    "path": "\\Projects\\kino\\living\\movement demos",
+                                    "type": "directory"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "children": [
+                                                {
+                                                    "id": "2.12.3.2.3.1.1",
+                                                    "name": "scene0.tox",
+                                                    "path": "\\Projects\\kino\\living\\old\\hope demo\\scene0.tox",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.12.3.2.3.1.2",
+                                                    "name": "scene0_skybox_only.tox",
+                                                    "path": "\\Projects\\kino\\living\\old\\hope demo\\scene0_skybox_only.tox",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.12.3.2.3.1.3",
+                                                    "name": "scene1.tox",
+                                                    "path": "\\Projects\\kino\\living\\old\\hope demo\\scene1.tox",
+                                                    "type": "file"
+                                                }
+                                            ],
+                                            "id": "2.12.3.2.3.1",
+                                            "name": "hope demo",
+                                            "path": "\\Projects\\kino\\living\\old\\hope demo",
+                                            "type": "directory"
+                                        },
+                                        {
+                                            "id": "2.12.3.2.3.2",
+                                            "name": "hope_demo.tox",
+                                            "path": "\\Projects\\kino\\living\\old\\hope_demo.tox",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.12.3.2.3.3",
+                                            "name": "hope_v0.1.tox",
+                                            "path": "\\Projects\\kino\\living\\old\\hope_v0.1.tox",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.12.3.2.3.4",
+                                            "name": "hope_v0.2.tox",
+                                            "path": "\\Projects\\kino\\living\\old\\hope_v0.2.tox",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.12.3.2.3.5",
+                                            "name": "hope_v0.tox",
+                                            "path": "\\Projects\\kino\\living\\old\\hope_v0.tox",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.12.3.2.3.6",
+                                            "name": "hope_v1.0.tox",
+                                            "path": "\\Projects\\kino\\living\\old\\hope_v1.0.tox",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.12.3.2.3.7",
+                                            "name": "hope_v1.1.tox",
+                                            "path": "\\Projects\\kino\\living\\old\\hope_v1.1.tox",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.12.3.2.3.8",
+                                            "name": "living_distortion_study_liquid_marbling_v0.tox",
+                                            "path": "\\Projects\\kino\\living\\old\\living_distortion_study_liquid_marbling_v0.tox",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.12.3.2.3.9",
+                                            "name": "living_distortion_study_liquid_marbling_v1.1.tox",
+                                            "path": "\\Projects\\kino\\living\\old\\living_distortion_study_liquid_marbling_v1.1.tox",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.12.3.2.3.10",
+                                            "name": "living_distortion_study_liquid_marbling_v1.2.tox",
+                                            "path": "\\Projects\\kino\\living\\old\\living_distortion_study_liquid_marbling_v1.2.tox",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.12.3.2.3.11",
+                                            "name": "living_distortion_study_liquid_marbling_v1.tox",
+                                            "path": "\\Projects\\kino\\living\\old\\living_distortion_study_liquid_marbling_v1.tox",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.12.3.2.3.12",
+                                            "name": "living_hope_v1_2.tox",
+                                            "path": "\\Projects\\kino\\living\\old\\living_hope_v1_2.tox",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.12.3.2.3.13",
+                                            "name": "living_hope_v1_3.tox",
+                                            "path": "\\Projects\\kino\\living\\old\\living_hope_v1_3.tox",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.12.3.2.3.14",
+                                            "name": "living_hope_v1_4.tox",
+                                            "path": "\\Projects\\kino\\living\\old\\living_hope_v1_4.tox",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.12.3.2.3.15",
+                                            "name": "living_hope_v1_5.tox",
+                                            "path": "\\Projects\\kino\\living\\old\\living_hope_v1_5.tox",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.12.3.2.3.16",
+                                            "name": "living_hope_v1_6.tox",
+                                            "path": "\\Projects\\kino\\living\\old\\living_hope_v1_6.tox",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.12.3.2.3.17",
+                                            "name": "living_hope_v1_7.tox",
+                                            "path": "\\Projects\\kino\\living\\old\\living_hope_v1_7.tox",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.12.3.2.3.18",
+                                            "name": "living_hope_v1_8.tox",
+                                            "path": "\\Projects\\kino\\living\\old\\living_hope_v1_8.tox",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.12.3.2.3.19",
+                                            "name": "living_hope_v2.tox",
+                                            "path": "\\Projects\\kino\\living\\old\\living_hope_v2.tox",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.12.3.2.3.20",
+                                            "name": "living_hope_v2_1.tox",
+                                            "path": "\\Projects\\kino\\living\\old\\living_hope_v2_1.tox",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.12.3.2.3.21",
+                                            "name": "living_hope_v3.tox",
+                                            "path": "\\Projects\\kino\\living\\old\\living_hope_v3.tox",
+                                            "type": "file"
+                                        }
+                                    ],
+                                    "id": "2.12.3.2.3",
+                                    "name": "old",
+                                    "path": "\\Projects\\kino\\living\\old",
+                                    "type": "directory"
+                                }
+                            ],
+                            "id": "2.12.3.2",
+                            "name": "living",
+                            "path": "\\Projects\\kino\\living",
+                            "type": "directory"
+                        }
+                    ],
+                    "id": "2.12.3",
+                    "name": "kino",
+                    "path": "\\Projects\\kino",
+                    "type": "directory"
+                },
+                {
+                    "children": [
+                        {
+                            "id": "2.12.4.1",
+                            "name": "murmurations_delphi_stems.tox",
+                            "path": "\\Projects\\kyle\\murmurations_delphi_stems.tox",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.12.4",
+                    "name": "kyle",
+                    "path": "\\Projects\\kyle",
+                    "type": "directory"
+                },
+                {
+                    "children": [
+                        {
+                            "id": "2.12.5.1",
+                            "name": "artist_names.tox",
+                            "path": "\\Projects\\live visual effects\\artist_names.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.12.5.2",
+                            "name": "edgeFeedback.tox",
+                            "path": "\\Projects\\live visual effects\\edgeFeedback.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.12.5.3",
+                            "name": "endless_valleys.tox",
+                            "path": "\\Projects\\live visual effects\\endless_valleys.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.12.5.4",
+                            "name": "generative_tex.tox",
+                            "path": "\\Projects\\live visual effects\\generative_tex.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.12.5.5",
+                            "name": "movingthruspace.tox",
+                            "path": "\\Projects\\live visual effects\\movingthruspace.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.12.5.6",
+                            "name": "moving_through_shapes.tox",
+                            "path": "\\Projects\\live visual effects\\moving_through_shapes.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.12.5.7",
+                            "name": "murmurations.tox",
+                            "path": "\\Projects\\live visual effects\\murmurations.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.12.5.8",
+                            "name": "subdivision.tox",
+                            "path": "\\Projects\\live visual effects\\subdivision.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.12.5.9",
+                            "name": "subdivisions.tox",
+                            "path": "\\Projects\\live visual effects\\subdivisions.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.12.5.10",
+                            "name": "tunnel.tox",
+                            "path": "\\Projects\\live visual effects\\tunnel.tox",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.12.5",
+                    "name": "live visual effects",
+                    "path": "\\Projects\\live visual effects",
+                    "type": "directory"
+                },
+                {
+                    "children": [
+                        {
+                            "id": "2.12.6.1",
+                            "name": "fluid simulation overlay v0.tox",
+                            "path": "\\Projects\\photo effects\\fluid simulation overlay v0.tox",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.12.6",
+                    "name": "photo effects",
+                    "path": "\\Projects\\photo effects",
+                    "type": "directory"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "id": "2.12.7.1.1",
+                                    "name": "self reflecting pool blue 0.tox",
+                                    "path": "\\Projects\\self reflecting pool\\blue\\self reflecting pool blue 0.tox",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.12.7.1",
+                            "name": "blue",
+                            "path": "\\Projects\\self reflecting pool\\blue",
+                            "type": "directory"
+                        },
+                        {
+                            "id": "2.12.7.2",
+                            "name": "curiosity0.tox",
+                            "path": "\\Projects\\self reflecting pool\\curiosity0.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.12.7.3",
+                            "name": "curiosity1.tox",
+                            "path": "\\Projects\\self reflecting pool\\curiosity1.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.12.7.4",
+                            "name": "curiosity2.tox",
+                            "path": "\\Projects\\self reflecting pool\\curiosity2.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.12.7.5",
+                            "name": "curiosity3.tox",
+                            "path": "\\Projects\\self reflecting pool\\curiosity3.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.12.7.6",
+                            "name": "green self reflecting pool 0.tox",
+                            "path": "\\Projects\\self reflecting pool\\green self reflecting pool 0.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.12.7.7",
+                            "name": "green_self_reflecting_pool.tox",
+                            "path": "\\Projects\\self reflecting pool\\green_self_reflecting_pool.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.12.7.8",
+                            "name": "green_self_reflecting_pool_1.tox",
+                            "path": "\\Projects\\self reflecting pool\\green_self_reflecting_pool_1.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.12.7.9",
+                            "name": "loss.tox",
+                            "path": "\\Projects\\self reflecting pool\\loss.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.12.7.10",
+                            "name": "loss1.tox",
+                            "path": "\\Projects\\self reflecting pool\\loss1.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.12.7.11",
+                            "name": "loss2.tox",
+                            "path": "\\Projects\\self reflecting pool\\loss2.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.12.7.12",
+                            "name": "loss3.tox",
+                            "path": "\\Projects\\self reflecting pool\\loss3.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.12.7.13",
+                            "name": "self_reflecting_pool_green_2.tox",
+                            "path": "\\Projects\\self reflecting pool\\self_reflecting_pool_green_2.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.12.7.14",
+                            "name": "self_reflecting_pool_green_3.tox",
+                            "path": "\\Projects\\self reflecting pool\\self_reflecting_pool_green_3.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.12.7.15",
+                            "name": "self_reflecting_pool_green_4.tox",
+                            "path": "\\Projects\\self reflecting pool\\self_reflecting_pool_green_4.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.12.7.16",
+                            "name": "self_reflecting_pool_green_5.tox",
+                            "path": "\\Projects\\self reflecting pool\\self_reflecting_pool_green_5.tox",
+                            "type": "file"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.12.7.17.1",
+                                    "name": "curiosity - surface tension v0.tox",
+                                    "path": "\\Projects\\self reflecting pool\\surface tension\\curiosity - surface tension v0.tox",
+                                    "type": "file"
+                                },
+                                {
+                                    "id": "2.12.7.17.2",
+                                    "name": "curiosity - surface tension.tox",
+                                    "path": "\\Projects\\self reflecting pool\\surface tension\\curiosity - surface tension.tox",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.12.7.17",
+                            "name": "surface tension",
+                            "path": "\\Projects\\self reflecting pool\\surface tension",
+                            "type": "directory"
+                        },
+                        {
+                            "id": "2.12.7.18",
+                            "name": "wave_original.tox",
+                            "path": "\\Projects\\self reflecting pool\\wave_original.tox",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.12.7",
+                    "name": "self reflecting pool",
+                    "path": "\\Projects\\self reflecting pool",
+                    "type": "directory"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "id": "2.12.8.1.1",
+                                    "name": "bezier_gui.toe",
+                                    "path": "\\Projects\\Starters_braun\\bezier_curve_gui\\bezier_gui.toe",
+                                    "type": "file"
+                                },
+                                {
+                                    "id": "2.12.8.1.2",
+                                    "name": "README.md",
+                                    "path": "\\Projects\\Starters_braun\\bezier_curve_gui\\README.md",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.12.8.1",
+                            "name": "bezier_curve_gui",
+                            "path": "\\Projects\\Starters_braun\\bezier_curve_gui",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.12.8.2.1",
+                                    "name": ".gitignore",
+                                    "path": "\\Projects\\Starters_braun\\boids\\.gitignore",
+                                    "type": "file"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "children": [
+                                                {
+                                                    "children": [
+                                                        {
+                                                            "id": "2.12.8.2.2.1.1.1",
+                                                            "name": "BirdUVTexture.jpg",
+                                                            "path": "\\Projects\\Starters_braun\\boids\\assets\\fbx_bird\\Bird_Asset.fbm\\BirdUVTexture.jpg",
+                                                            "type": "file"
+                                                        }
+                                                    ],
+                                                    "id": "2.12.8.2.2.1.1",
+                                                    "name": "Bird_Asset.fbm",
+                                                    "path": "\\Projects\\Starters_braun\\boids\\assets\\fbx_bird\\Bird_Asset.fbm",
+                                                    "type": "directory"
+                                                },
+                                                {
+                                                    "id": "2.12.8.2.2.1.2",
+                                                    "name": "Bird_Asset.fbx",
+                                                    "path": "\\Projects\\Starters_braun\\boids\\assets\\fbx_bird\\Bird_Asset.fbx",
+                                                    "type": "file"
+                                                }
+                                            ],
+                                            "id": "2.12.8.2.2.1",
+                                            "name": "fbx_bird",
+                                            "path": "\\Projects\\Starters_braun\\boids\\assets\\fbx_bird",
+                                            "type": "directory"
+                                        }
+                                    ],
+                                    "id": "2.12.8.2.2",
+                                    "name": "assets",
+                                    "path": "\\Projects\\Starters_braun\\boids\\assets",
+                                    "type": "directory"
+                                },
+                                {
+                                    "id": "2.12.8.2.3",
+                                    "name": "README.md",
+                                    "path": "\\Projects\\Starters_braun\\boids\\README.md",
+                                    "type": "file"
+                                },
+                                {
+                                    "id": "2.12.8.2.4",
+                                    "name": "TD-Boids.toe",
+                                    "path": "\\Projects\\Starters_braun\\boids\\TD-Boids.toe",
+                                    "type": "file"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "id": "2.12.8.2.5.1",
+                                            "name": "Bird_Asset.tdc",
+                                            "path": "\\Projects\\Starters_braun\\boids\\TDImportCache\\Bird_Asset.tdc",
+                                            "type": "file"
+                                        }
+                                    ],
+                                    "id": "2.12.8.2.5",
+                                    "name": "TDImportCache",
+                                    "path": "\\Projects\\Starters_braun\\boids\\TDImportCache",
+                                    "type": "directory"
+                                }
+                            ],
+                            "id": "2.12.8.2",
+                            "name": "boids",
+                            "path": "\\Projects\\Starters_braun\\boids",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.12.8.3.1",
+                                    "name": ".gitignore",
+                                    "path": "\\Projects\\Starters_braun\\gif_maker\\.gitignore",
+                                    "type": "file"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "id": "2.12.8.3.2.1",
+                                            "name": ".gitignore",
+                                            "path": "\\Projects\\Starters_braun\\gif_maker\\gifs\\.gitignore",
+                                            "type": "file"
+                                        }
+                                    ],
+                                    "id": "2.12.8.3.2",
+                                    "name": "gifs",
+                                    "path": "\\Projects\\Starters_braun\\gif_maker\\gifs",
+                                    "type": "directory"
+                                },
+                                {
+                                    "id": "2.12.8.3.3",
+                                    "name": "gif_maker.toe",
+                                    "path": "\\Projects\\Starters_braun\\gif_maker\\gif_maker.toe",
+                                    "type": "file"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "id": "2.12.8.3.4.1",
+                                            "name": ".gitignore",
+                                            "path": "\\Projects\\Starters_braun\\gif_maker\\images\\.gitignore",
+                                            "type": "file"
+                                        }
+                                    ],
+                                    "id": "2.12.8.3.4",
+                                    "name": "images",
+                                    "path": "\\Projects\\Starters_braun\\gif_maker\\images",
+                                    "type": "directory"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "id": "2.12.8.3.5.1",
+                                            "name": ".gitignore",
+                                            "path": "\\Projects\\Starters_braun\\gif_maker\\movies\\.gitignore",
+                                            "type": "file"
+                                        }
+                                    ],
+                                    "id": "2.12.8.3.5",
+                                    "name": "movies",
+                                    "path": "\\Projects\\Starters_braun\\gif_maker\\movies",
+                                    "type": "directory"
+                                },
+                                {
+                                    "id": "2.12.8.3.6",
+                                    "name": "readme.md",
+                                    "path": "\\Projects\\Starters_braun\\gif_maker\\readme.md",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.12.8.3",
+                            "name": "gif_maker",
+                            "path": "\\Projects\\Starters_braun\\gif_maker",
+                            "type": "directory"
+                        },
+                        {
+                            "id": "2.12.8.4",
+                            "name": "Hilbert_Curve_Blending.toe",
+                            "path": "\\Projects\\Starters_braun\\Hilbert_Curve_Blending.toe",
+                            "type": "file"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.12.8.5.1",
+                                    "name": ".gitignore",
+                                    "path": "\\Projects\\Starters_braun\\image_magick\\.gitignore",
+                                    "type": "file"
+                                },
+                                {
+                                    "id": "2.12.8.5.2",
+                                    "name": "image_magick_renderer.toe",
+                                    "path": "\\Projects\\Starters_braun\\image_magick\\image_magick_renderer.toe",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.12.8.5",
+                            "name": "image_magick",
+                            "path": "\\Projects\\Starters_braun\\image_magick",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.12.8.6.1",
+                                    "name": "Moebius3d.toe",
+                                    "path": "\\Projects\\Starters_braun\\moebius_transformations\\Moebius3d.toe",
+                                    "type": "file"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "id": "2.12.8.6.2.1",
+                                            "name": ".gitignore",
+                                            "path": "\\Projects\\Starters_braun\\moebius_transformations\\xoio_3d_people\\.gitignore",
+                                            "type": "file"
+                                        }
+                                    ],
+                                    "id": "2.12.8.6.2",
+                                    "name": "xoio_3d_people",
+                                    "path": "\\Projects\\Starters_braun\\moebius_transformations\\xoio_3d_people",
+                                    "type": "directory"
+                                }
+                            ],
+                            "id": "2.12.8.6",
+                            "name": "moebius_transformations",
+                            "path": "\\Projects\\Starters_braun\\moebius_transformations",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.12.8.7.1",
+                                    "name": ".gitignore",
+                                    "path": "\\Projects\\Starters_braun\\NodeRender\\.gitignore",
+                                    "type": "file"
+                                },
+                                {
+                                    "id": "2.12.8.7.2",
+                                    "name": "NodeRender.toe",
+                                    "path": "\\Projects\\Starters_braun\\NodeRender\\NodeRender.toe",
+                                    "type": "file"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "id": "2.12.8.7.3.1",
+                                            "name": ".gitignore",
+                                            "path": "\\Projects\\Starters_braun\\NodeRender\\Plugins\\.gitignore",
+                                            "type": "file"
+                                        }
+                                    ],
+                                    "id": "2.12.8.7.3",
+                                    "name": "Plugins",
+                                    "path": "\\Projects\\Starters_braun\\NodeRender\\Plugins",
+                                    "type": "directory"
+                                },
+                                {
+                                    "id": "2.12.8.7.4",
+                                    "name": "README.md",
+                                    "path": "\\Projects\\Starters_braun\\NodeRender\\README.md",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.12.8.7",
+                            "name": "NodeRender",
+                            "path": "\\Projects\\Starters_braun\\NodeRender",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.12.8.8.1",
+                                    "name": ".gitignore",
+                                    "path": "\\Projects\\Starters_braun\\optical_flow_particles_compute\\.gitignore",
+                                    "type": "file"
+                                },
+                                {
+                                    "id": "2.12.8.8.2",
+                                    "name": "optical_flow_particles_compute.toe",
+                                    "path": "\\Projects\\Starters_braun\\optical_flow_particles_compute\\optical_flow_particles_compute.toe",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.12.8.8",
+                            "name": "optical_flow_particles_compute",
+                            "path": "\\Projects\\Starters_braun\\optical_flow_particles_compute",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.12.8.9.1",
+                                    "name": "percentage_closer_soft_shadows.toe",
+                                    "path": "\\Projects\\Starters_braun\\percentage_close_softer_shadows\\percentage_closer_soft_shadows.toe",
+                                    "type": "file"
+                                },
+                                {
+                                    "id": "2.12.8.9.2",
+                                    "name": "README.md",
+                                    "path": "\\Projects\\Starters_braun\\percentage_close_softer_shadows\\README.md",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.12.8.9",
+                            "name": "percentage_close_softer_shadows",
+                            "path": "\\Projects\\Starters_braun\\percentage_close_softer_shadows",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.12.8.10.1",
+                                    "name": "Physarum.toe",
+                                    "path": "\\Projects\\Starters_braun\\Physarum\\Physarum.toe",
+                                    "type": "file"
+                                },
+                                {
+                                    "id": "2.12.8.10.2",
+                                    "name": "README.md",
+                                    "path": "\\Projects\\Starters_braun\\Physarum\\README.md",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.12.8.10",
+                            "name": "Physarum",
+                            "path": "\\Projects\\Starters_braun\\Physarum",
+                            "type": "directory"
+                        },
+                        {
+                            "id": "2.12.8.11",
+                            "name": "README.md",
+                            "path": "\\Projects\\Starters_braun\\README.md",
+                            "type": "file"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.12.8.12.1",
+                                    "name": "beesandbombs_20181125_xo_spiral.tox",
+                                    "path": "\\Projects\\Starters_braun\\recreations\\beesandbombs_20181125_xo_spiral.tox",
+                                    "type": "file"
+                                },
+                                {
+                                    "id": "2.12.8.12.2",
+                                    "name": "etiennejcb_2020-01-11_radial_collapse.toe",
+                                    "path": "\\Projects\\Starters_braun\\recreations\\etiennejcb_2020-01-11_radial_collapse.toe",
+                                    "type": "file"
+                                },
+                                {
+                                    "id": "2.12.8.12.3",
+                                    "name": "etiennejcb_2020-01-11_radial_collapse_noise_tiler.toe",
+                                    "path": "\\Projects\\Starters_braun\\recreations\\etiennejcb_2020-01-11_radial_collapse_noise_tiler.toe",
+                                    "type": "file"
+                                },
+                                {
+                                    "id": "2.12.8.12.4",
+                                    "name": "matt_taylor_2020-06-30_motion_singularity.toe",
+                                    "path": "\\Projects\\Starters_braun\\recreations\\matt_taylor_2020-06-30_motion_singularity.toe",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.12.8.12",
+                            "name": "recreations",
+                            "path": "\\Projects\\Starters_braun\\recreations",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.12.8.13.1",
+                                    "name": "README.md",
+                                    "path": "\\Projects\\Starters_braun\\speech_recognition\\README.md",
+                                    "type": "file"
+                                },
+                                {
+                                    "id": "2.12.8.13.2",
+                                    "name": "speech_to_td.py",
+                                    "path": "\\Projects\\Starters_braun\\speech_recognition\\speech_to_td.py",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.12.8.13",
+                            "name": "speech_recognition",
+                            "path": "\\Projects\\Starters_braun\\speech_recognition",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.12.8.14.1",
+                                    "name": "uv_crop_math.toe",
+                                    "path": "\\Projects\\Starters_braun\\uv_math\\uv_crop_math.toe",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.12.8.14",
+                            "name": "uv_math",
+                            "path": "\\Projects\\Starters_braun\\uv_math",
+                            "type": "directory"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.12.8.15.1",
+                                    "name": "wordpress_scraper.py",
+                                    "path": "\\Projects\\Starters_braun\\web_scraping\\wordpress_scraper.py",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.12.8.15",
+                            "name": "web_scraping",
+                            "path": "\\Projects\\Starters_braun\\web_scraping",
+                            "type": "directory"
+                        }
+                    ],
+                    "id": "2.12.8",
+                    "name": "Starters_braun",
+                    "path": "\\Projects\\Starters_braun",
+                    "type": "directory"
+                },
+                {
+                    "children": [
+                        {
+                            "id": "2.12.9.1",
+                            "name": "boids_2D_adapted_fromdavid_braun.tox",
+                            "path": "\\Projects\\tutorials\\boids_2D_adapted_fromdavid_braun.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.12.9.2",
+                            "name": "boids_david_braun.tox",
+                            "path": "\\Projects\\tutorials\\boids_david_braun.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.12.9.3",
+                            "name": "boids_david_braun_debug_after_TD_update.tox",
+                            "path": "\\Projects\\tutorials\\boids_david_braun_debug_after_TD_update.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.12.9.4",
+                            "name": "compute_shader_tutorial.tox",
+                            "path": "\\Projects\\tutorials\\compute_shader_tutorial.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.12.9.5",
+                            "name": "exsstas_raymarching_pt2.tox",
+                            "path": "\\Projects\\tutorials\\exsstas_raymarching_pt2.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.12.9.6",
+                            "name": "flocking particle system based on particle GPU.tox",
+                            "path": "\\Projects\\tutorials\\flocking particle system based on particle GPU.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.12.9.7",
+                            "name": "instancing_w_replication_matt_ragan.tox",
+                            "path": "\\Projects\\tutorials\\instancing_w_replication_matt_ragan.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.12.9.8",
+                            "name": "Physarum_david_braun.tox",
+                            "path": "\\Projects\\tutorials\\Physarum_david_braun.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.12.9.9",
+                            "name": "POINT CLOUDS B2BK.tox",
+                            "path": "\\Projects\\tutorials\\POINT CLOUDS B2BK.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.12.9.10",
+                            "name": "raymarching_tutorial_vanta.tox",
+                            "path": "\\Projects\\tutorials\\raymarching_tutorial_vanta.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.12.9.11",
+                            "name": "ShaderBuilder.tox",
+                            "path": "\\Projects\\tutorials\\ShaderBuilder.tox",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.12.9",
+                    "name": "tutorials",
+                    "path": "\\Projects\\tutorials",
+                    "type": "directory"
+                }
+            ],
+            "id": "2.12",
+            "name": "Projects",
+            "path": "\\Projects",
+            "type": "directory"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "id": "2.13.1.1",
+                            "name": "continual_growth1.tox",
+                            "path": "\\setting tox backup files\\divided aggregate walkers\\continual_growth1.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.13.1.2",
+                            "name": "image_heightmap1.tox",
+                            "path": "\\setting tox backup files\\divided aggregate walkers\\image_heightmap1.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.13.1.3",
+                            "name": "sandbox.tox",
+                            "path": "\\setting tox backup files\\divided aggregate walkers\\sandbox.tox",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.13.1",
+                    "name": "divided aggregate walkers",
+                    "path": "\\setting tox backup files\\divided aggregate walkers",
+                    "type": "directory"
+                },
+                {
+                    "children": [
+                        {
+                            "id": "2.13.2.1",
+                            "name": "akai mpd26.tox",
+                            "path": "\\setting tox backup files\\midi maps\\akai mpd26.tox",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.13.2",
+                    "name": "midi maps",
+                    "path": "\\setting tox backup files\\midi maps",
+                    "type": "directory"
+                }
+            ],
+            "id": "2.13",
+            "name": "setting tox backup files",
+            "path": "\\setting tox backup files",
+            "type": "directory"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "id": "2.14.1.1.1",
+                                    "name": "advection3D.frag",
+                                    "path": "\\shaders\\fluid simulation\\3d\\advection3D.frag",
+                                    "type": "file"
+                                },
+                                {
+                                    "id": "2.14.1.1.2",
+                                    "name": "clear3D.frag",
+                                    "path": "\\shaders\\fluid simulation\\3d\\clear3D.frag",
+                                    "type": "file"
+                                },
+                                {
+                                    "id": "2.14.1.1.3",
+                                    "name": "curl3D.frag",
+                                    "path": "\\shaders\\fluid simulation\\3d\\curl3D.frag",
+                                    "type": "file"
+                                },
+                                {
+                                    "id": "2.14.1.1.4",
+                                    "name": "divergence3D.frag",
+                                    "path": "\\shaders\\fluid simulation\\3d\\divergence3D.frag",
+                                    "type": "file"
+                                },
+                                {
+                                    "id": "2.14.1.1.5",
+                                    "name": "gradient3D.frag",
+                                    "path": "\\shaders\\fluid simulation\\3d\\gradient3D.frag",
+                                    "type": "file"
+                                },
+                                {
+                                    "id": "2.14.1.1.6",
+                                    "name": "pressure3D.frag",
+                                    "path": "\\shaders\\fluid simulation\\3d\\pressure3D.frag",
+                                    "type": "file"
+                                },
+                                {
+                                    "id": "2.14.1.1.7",
+                                    "name": "splat3D.frag",
+                                    "path": "\\shaders\\fluid simulation\\3d\\splat3D.frag",
+                                    "type": "file"
+                                },
+                                {
+                                    "id": "2.14.1.1.8",
+                                    "name": "vorticity3D.frag",
+                                    "path": "\\shaders\\fluid simulation\\3d\\vorticity3D.frag",
+                                    "type": "file"
+                                },
+                                {
+                                    "id": "2.14.1.1.9",
+                                    "name": "_includes3D.frag",
+                                    "path": "\\shaders\\fluid simulation\\3d\\_includes3D.frag",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.14.1.1",
+                            "name": "3d",
+                            "path": "\\shaders\\fluid simulation\\3d",
+                            "type": "directory"
+                        },
+                        {
+                            "id": "2.14.1.2",
+                            "name": "advection.frag",
+                            "path": "\\shaders\\fluid simulation\\advection.frag",
+                            "type": "file"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "id": "2.14.1.3.1",
+                                    "name": "advection.frag",
+                                    "path": "\\shaders\\fluid simulation\\backup\\advection.frag",
+                                    "type": "file"
+                                },
+                                {
+                                    "id": "2.14.1.3.2",
+                                    "name": "clear.frag",
+                                    "path": "\\shaders\\fluid simulation\\backup\\clear.frag",
+                                    "type": "file"
+                                },
+                                {
+                                    "id": "2.14.1.3.3",
+                                    "name": "curl.frag",
+                                    "path": "\\shaders\\fluid simulation\\backup\\curl.frag",
+                                    "type": "file"
+                                },
+                                {
+                                    "id": "2.14.1.3.4",
+                                    "name": "divergence.frag",
+                                    "path": "\\shaders\\fluid simulation\\backup\\divergence.frag",
+                                    "type": "file"
+                                },
+                                {
+                                    "id": "2.14.1.3.5",
+                                    "name": "gradient.frag",
+                                    "path": "\\shaders\\fluid simulation\\backup\\gradient.frag",
+                                    "type": "file"
+                                },
+                                {
+                                    "id": "2.14.1.3.6",
+                                    "name": "pressure.frag",
+                                    "path": "\\shaders\\fluid simulation\\backup\\pressure.frag",
+                                    "type": "file"
+                                },
+                                {
+                                    "id": "2.14.1.3.7",
+                                    "name": "splat.frag",
+                                    "path": "\\shaders\\fluid simulation\\backup\\splat.frag",
+                                    "type": "file"
+                                },
+                                {
+                                    "id": "2.14.1.3.8",
+                                    "name": "vorticity.frag",
+                                    "path": "\\shaders\\fluid simulation\\backup\\vorticity.frag",
+                                    "type": "file"
+                                },
+                                {
+                                    "id": "2.14.1.3.9",
+                                    "name": "_includes.frag",
+                                    "path": "\\shaders\\fluid simulation\\backup\\_includes.frag",
+                                    "type": "file"
+                                }
+                            ],
+                            "id": "2.14.1.3",
+                            "name": "backup",
+                            "path": "\\shaders\\fluid simulation\\backup",
+                            "type": "directory"
+                        },
+                        {
+                            "id": "2.14.1.4",
+                            "name": "clear.frag",
+                            "path": "\\shaders\\fluid simulation\\clear.frag",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.14.1.5",
+                            "name": "curl.frag",
+                            "path": "\\shaders\\fluid simulation\\curl.frag",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.14.1.6",
+                            "name": "divergence.frag",
+                            "path": "\\shaders\\fluid simulation\\divergence.frag",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.14.1.7",
+                            "name": "gradient.frag",
+                            "path": "\\shaders\\fluid simulation\\gradient.frag",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.14.1.8",
+                            "name": "Greibel 1998 - Numerical Methods for Fluid Dynamics.pdf",
+                            "path": "\\shaders\\fluid simulation\\Greibel 1998 - Numerical Methods for Fluid Dynamics.pdf",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.14.1.9",
+                            "name": "pressure.frag",
+                            "path": "\\shaders\\fluid simulation\\pressure.frag",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.14.1.10",
+                            "name": "splat.frag",
+                            "path": "\\shaders\\fluid simulation\\splat.frag",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.14.1.11",
+                            "name": "splatColor.frag",
+                            "path": "\\shaders\\fluid simulation\\splatColor.frag",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.14.1.12",
+                            "name": "splatVelocity.frag",
+                            "path": "\\shaders\\fluid simulation\\splatVelocity.frag",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.14.1.13",
+                            "name": "vorticity.frag",
+                            "path": "\\shaders\\fluid simulation\\vorticity.frag",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.14.1.14",
+                            "name": "_includes.frag",
+                            "path": "\\shaders\\fluid simulation\\_includes.frag",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.14.1",
+                    "name": "fluid simulation",
+                    "path": "\\shaders\\fluid simulation",
+                    "type": "directory"
+                },
+                {
+                    "children": [
+                        {
+                            "id": "2.14.2.1",
+                            "name": "erosion_wip.tox",
+                            "path": "\\shaders\\utils\\erosion_wip.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.14.2.2",
+                            "name": "jitter_input_color.frag",
+                            "path": "\\shaders\\utils\\jitter_input_color.frag",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.14.2.3",
+                            "name": "uniform_hash_distro.frag",
+                            "path": "\\shaders\\utils\\uniform_hash_distro.frag",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.14.2",
+                    "name": "utils",
+                    "path": "\\shaders\\utils",
+                    "type": "directory"
+                }
+            ],
+            "id": "2.14",
+            "name": "shaders",
+            "path": "\\shaders",
+            "type": "directory"
+        },
+        {
+            "children": [
+                {
+                    "id": "2.15.1",
+                    "name": "agent_instancing_template.tox",
+                    "path": "\\simulations\\agent_instancing_template.tox",
+                    "type": "file"
+                },
+                {
+                    "children": [
+                        {
+                            "id": "2.15.2.1",
+                            "name": "CrashAutoSave.erosion3.1.toe",
+                            "path": "\\simulations\\erosion\\CrashAutoSave.erosion3.1.toe",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.15.2.2",
+                            "name": "erosion3.tox",
+                            "path": "\\simulations\\erosion\\erosion3.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.15.2.3",
+                            "name": "erosion_simulation.tox",
+                            "path": "\\simulations\\erosion\\erosion_simulation.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.15.2.4",
+                            "name": "gradient testing - option 2.0.png",
+                            "path": "\\simulations\\erosion\\gradient testing - option 2.0.png",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.15.2.5",
+                            "name": "gradient testing - option 2.1.png",
+                            "path": "\\simulations\\erosion\\gradient testing - option 2.1.png",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.15.2.6",
+                            "name": "screen capture during dev.0.mov",
+                            "path": "\\simulations\\erosion\\screen capture during dev.0.mov",
+                            "type": "file"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "id": "2.15.2.7.1.1",
+                                            "name": "alterwaterhight-frag.glsl",
+                                            "path": "\\simulations\\erosion\\shaders\\shaders\\alterwaterhight-frag.glsl",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.15.2.7.1.2",
+                                            "name": "average-frag.glsl",
+                                            "path": "\\simulations\\erosion\\shaders\\shaders\\average-frag.glsl",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.15.2.7.1.3",
+                                            "name": "bilateralBlur-frag.glsl",
+                                            "path": "\\simulations\\erosion\\shaders\\shaders\\bilateralBlur-frag.glsl",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.15.2.7.1.4",
+                                            "name": "clean-frag.glsl",
+                                            "path": "\\simulations\\erosion\\shaders\\shaders\\clean-frag.glsl",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.15.2.7.1.5",
+                                            "name": "combine-frag.glsl",
+                                            "path": "\\simulations\\erosion\\shaders\\shaders\\combine-frag.glsl",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.15.2.7.1.6",
+                                            "name": "eva-frag.glsl",
+                                            "path": "\\simulations\\erosion\\shaders\\shaders\\eva-frag.glsl",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.15.2.7.1.7",
+                                            "name": "flat-frag.glsl",
+                                            "path": "\\simulations\\erosion\\shaders\\shaders\\flat-frag.glsl",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.15.2.7.1.8",
+                                            "name": "flat-vert.glsl",
+                                            "path": "\\simulations\\erosion\\shaders\\shaders\\flat-vert.glsl",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.15.2.7.1.9",
+                                            "name": "flow-frag.glsl",
+                                            "path": "\\simulations\\erosion\\shaders\\shaders\\flow-frag.glsl",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.15.2.7.1.10",
+                                            "name": "initial-frag.glsl",
+                                            "path": "\\simulations\\erosion\\shaders\\shaders\\initial-frag.glsl",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.15.2.7.1.11",
+                                            "name": "maccormack-frag.glsl",
+                                            "path": "\\simulations\\erosion\\shaders\\shaders\\maccormack-frag.glsl",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.15.2.7.1.12",
+                                            "name": "maxslippageheight-frag.glsl",
+                                            "path": "\\simulations\\erosion\\shaders\\shaders\\maxslippageheight-frag.glsl",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.15.2.7.1.13",
+                                            "name": "quad-vert.glsl",
+                                            "path": "\\simulations\\erosion\\shaders\\shaders\\quad-vert.glsl",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.15.2.7.1.14",
+                                            "name": "rain-frag.glsl",
+                                            "path": "\\simulations\\erosion\\shaders\\shaders\\rain-frag.glsl",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.15.2.7.1.15",
+                                            "name": "sceneDepth-frag.glsl",
+                                            "path": "\\simulations\\erosion\\shaders\\shaders\\sceneDepth-frag.glsl",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.15.2.7.1.16",
+                                            "name": "sediadvect-frag.glsl",
+                                            "path": "\\simulations\\erosion\\shaders\\shaders\\sediadvect-frag.glsl",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.15.2.7.1.17",
+                                            "name": "sediment-frag.glsl",
+                                            "path": "\\simulations\\erosion\\shaders\\shaders\\sediment-frag.glsl",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.15.2.7.1.18",
+                                            "name": "shadowmap-frag.glsl",
+                                            "path": "\\simulations\\erosion\\shaders\\shaders\\shadowmap-frag.glsl",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.15.2.7.1.19",
+                                            "name": "shadowmap-vert.glsl",
+                                            "path": "\\simulations\\erosion\\shaders\\shaders\\shadowmap-vert.glsl",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.15.2.7.1.20",
+                                            "name": "terrain-frag.glsl",
+                                            "path": "\\simulations\\erosion\\shaders\\shaders\\terrain-frag.glsl",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.15.2.7.1.21",
+                                            "name": "terrain-vert.glsl",
+                                            "path": "\\simulations\\erosion\\shaders\\shaders\\terrain-vert.glsl",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.15.2.7.1.22",
+                                            "name": "thermalapply-frag.glsl",
+                                            "path": "\\simulations\\erosion\\shaders\\shaders\\thermalapply-frag.glsl",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.15.2.7.1.23",
+                                            "name": "thermalterrainflux-frag.glsl",
+                                            "path": "\\simulations\\erosion\\shaders\\shaders\\thermalterrainflux-frag.glsl",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.15.2.7.1.24",
+                                            "name": "veladvect-frag.glsl",
+                                            "path": "\\simulations\\erosion\\shaders\\shaders\\veladvect-frag.glsl",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.15.2.7.1.25",
+                                            "name": "water-frag.glsl",
+                                            "path": "\\simulations\\erosion\\shaders\\shaders\\water-frag.glsl",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.15.2.7.1.26",
+                                            "name": "water-vert.glsl",
+                                            "path": "\\simulations\\erosion\\shaders\\shaders\\water-vert.glsl",
+                                            "type": "file"
+                                        }
+                                    ],
+                                    "id": "2.15.2.7.1",
+                                    "name": "shaders",
+                                    "path": "\\simulations\\erosion\\shaders\\shaders",
+                                    "type": "directory"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "id": "2.15.2.7.2.1",
+                                            "name": ".gitignore",
+                                            "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\.gitignore",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "children": [
+                                                {
+                                                    "children": [
+                                                        {
+                                                            "id": "2.15.2.7.2.2.1.1",
+                                                            "name": "Project_Default.xml",
+                                                            "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\.idea\\inspectionProfiles\\Project_Default.xml",
+                                                            "type": "file"
+                                                        }
+                                                    ],
+                                                    "id": "2.15.2.7.2.2.1",
+                                                    "name": "inspectionProfiles",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\.idea\\inspectionProfiles",
+                                                    "type": "directory"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.2.2",
+                                                    "name": "misc.xml",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\.idea\\misc.xml",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.2.3",
+                                                    "name": "modules.xml",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\.idea\\modules.xml",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.2.4",
+                                                    "name": "vcs.xml",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\.idea\\vcs.xml",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.2.5",
+                                                    "name": "workspace.xml",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\.idea\\workspace.xml",
+                                                    "type": "file"
+                                                }
+                                            ],
+                                            "id": "2.15.2.7.2.2",
+                                            "name": ".idea",
+                                            "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\.idea",
+                                            "type": "directory"
+                                        },
+                                        {
+                                            "id": "2.15.2.7.2.3",
+                                            "name": "detail.md",
+                                            "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\detail.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "children": [
+                                                {
+                                                    "id": "2.15.2.7.2.4.1",
+                                                    "name": "bundle.js",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\dist\\bundle.js",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.4.2",
+                                                    "name": "bundle.js.map",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\dist\\bundle.js.map",
+                                                    "type": "file"
+                                                }
+                                            ],
+                                            "id": "2.15.2.7.2.4",
+                                            "name": "dist",
+                                            "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\dist",
+                                            "type": "directory"
+                                        },
+                                        {
+                                            "children": [
+                                                {
+                                                    "id": "2.15.2.7.2.5.1",
+                                                    "name": "back.JPG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\img\\back.JPG",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.5.2",
+                                                    "name": "cap.JPG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\img\\cap.JPG",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.5.3",
+                                                    "name": "flux.JPG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\img\\flux.JPG",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.5.4",
+                                                    "name": "fluxeq.JPG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\img\\fluxeq.JPG",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.5.5",
+                                                    "name": "fluxeq1.JPG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\img\\fluxeq1.JPG",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.5.6",
+                                                    "name": "fluxeq2.JPG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\img\\fluxeq2.JPG",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.5.7",
+                                                    "name": "fs.JPG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\img\\fs.JPG",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.5.8",
+                                                    "name": "veleq.JPG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\img\\veleq.JPG",
+                                                    "type": "file"
+                                                }
+                                            ],
+                                            "id": "2.15.2.7.2.5",
+                                            "name": "img",
+                                            "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\img",
+                                            "type": "directory"
+                                        },
+                                        {
+                                            "id": "2.15.2.7.2.6",
+                                            "name": "index.html",
+                                            "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\index.html",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.15.2.7.2.7",
+                                            "name": "LICENSE",
+                                            "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\LICENSE",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.15.2.7.2.8",
+                                            "name": "package-lock.json",
+                                            "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\package-lock.json",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.15.2.7.2.9",
+                                            "name": "package.json",
+                                            "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\package.json",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.15.2.7.2.10",
+                                            "name": "README.md",
+                                            "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\README.md",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "children": [
+                                                {
+                                                    "id": "2.15.2.7.2.11.1",
+                                                    "name": "af1.PNG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\screenshot\\af1.PNG",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.11.2",
+                                                    "name": "bf1.PNG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\screenshot\\bf1.PNG",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.11.3",
+                                                    "name": "blurred.PNG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\screenshot\\blurred.PNG",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.11.4",
+                                                    "name": "cliff2.PNG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\screenshot\\cliff2.PNG",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.11.5",
+                                                    "name": "dd.PNG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\screenshot\\dd.PNG",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.11.6",
+                                                    "name": "delta0.PNG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\screenshot\\delta0.PNG",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.11.7",
+                                                    "name": "delta1.PNG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\screenshot\\delta1.PNG",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.11.8",
+                                                    "name": "flowmap.PNG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\screenshot\\flowmap.PNG",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.11.9",
+                                                    "name": "highvel.PNG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\screenshot\\highvel.PNG",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.11.10",
+                                                    "name": "mm.PNG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\screenshot\\mm.PNG",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.11.11",
+                                                    "name": "mtnn.PNG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\screenshot\\mtnn.PNG",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.11.12",
+                                                    "name": "mtnnew.PNG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\screenshot\\mtnnew.PNG",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.11.13",
+                                                    "name": "newmode.PNG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\screenshot\\newmode.PNG",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.11.14",
+                                                    "name": "nmtn2.PNG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\screenshot\\nmtn2.PNG",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.11.15",
+                                                    "name": "nthumb.PNG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\screenshot\\nthumb.PNG",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.11.16",
+                                                    "name": "rains2.PNG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\screenshot\\rains2.PNG",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.11.17",
+                                                    "name": "re.PNG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\screenshot\\re.PNG",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.11.18",
+                                                    "name": "riv.PNG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\screenshot\\riv.PNG",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.11.19",
+                                                    "name": "scatter1.PNG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\screenshot\\scatter1.PNG",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.11.20",
+                                                    "name": "sedi.gif",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\screenshot\\sedi.gif",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.11.21",
+                                                    "name": "td1.png",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\screenshot\\td1.png",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.11.22",
+                                                    "name": "terrace.PNG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\screenshot\\terrace.PNG",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.11.23",
+                                                    "name": "topdown.PNG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\screenshot\\topdown.PNG",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.11.24",
+                                                    "name": "tr2.PNG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\screenshot\\tr2.PNG",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.11.25",
+                                                    "name": "tt.PNG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\screenshot\\tt.PNG",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.11.26",
+                                                    "name": "unblurred.PNG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\screenshot\\unblurred.PNG",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.11.27",
+                                                    "name": "valley1.PNG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\screenshot\\valley1.PNG",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.11.28",
+                                                    "name": "valley2.PNG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\screenshot\\valley2.PNG",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.11.29",
+                                                    "name": "vally.PNG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\screenshot\\vally.PNG",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.11.30",
+                                                    "name": "velocityadvection.PNG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\screenshot\\velocityadvection.PNG",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.11.31",
+                                                    "name": "velocityadvection1.PNG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\screenshot\\velocityadvection1.PNG",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.11.32",
+                                                    "name": "vol.PNG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\screenshot\\vol.PNG",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.11.33",
+                                                    "name": "volcano.PNG",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\screenshot\\volcano.PNG",
+                                                    "type": "file"
+                                                }
+                                            ],
+                                            "id": "2.15.2.7.2.11",
+                                            "name": "screenshot",
+                                            "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\screenshot",
+                                            "type": "directory"
+                                        },
+                                        {
+                                            "children": [
+                                                {
+                                                    "id": "2.15.2.7.2.12.1",
+                                                    "name": "Camera.ts",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\src\\Camera.ts",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "children": [
+                                                        {
+                                                            "id": "2.15.2.7.2.12.2.1",
+                                                            "name": "Plane.ts",
+                                                            "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\src\\geometry\\Plane.ts",
+                                                            "type": "file"
+                                                        },
+                                                        {
+                                                            "id": "2.15.2.7.2.12.2.2",
+                                                            "name": "Square.ts",
+                                                            "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\src\\geometry\\Square.ts",
+                                                            "type": "file"
+                                                        }
+                                                    ],
+                                                    "id": "2.15.2.7.2.12.2",
+                                                    "name": "geometry",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\src\\geometry",
+                                                    "type": "directory"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.12.3",
+                                                    "name": "globals.ts",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\src\\globals.ts",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "id": "2.15.2.7.2.12.4",
+                                                    "name": "main.ts",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\src\\main.ts",
+                                                    "type": "file"
+                                                },
+                                                {
+                                                    "children": [
+                                                        {
+                                                            "children": [
+                                                                {
+                                                                    "id": "2.15.2.7.2.12.5.1.1",
+                                                                    "name": "Drawable.ts",
+                                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\src\\rendering\\gl\\Drawable.ts",
+                                                                    "type": "file"
+                                                                },
+                                                                {
+                                                                    "id": "2.15.2.7.2.12.5.1.2",
+                                                                    "name": "OpenGLRenderer.ts",
+                                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\src\\rendering\\gl\\OpenGLRenderer.ts",
+                                                                    "type": "file"
+                                                                },
+                                                                {
+                                                                    "id": "2.15.2.7.2.12.5.1.3",
+                                                                    "name": "ShaderProgram.ts",
+                                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\src\\rendering\\gl\\ShaderProgram.ts",
+                                                                    "type": "file"
+                                                                }
+                                                            ],
+                                                            "id": "2.15.2.7.2.12.5.1",
+                                                            "name": "gl",
+                                                            "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\src\\rendering\\gl",
+                                                            "type": "directory"
+                                                        }
+                                                    ],
+                                                    "id": "2.15.2.7.2.12.5",
+                                                    "name": "rendering",
+                                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\src\\rendering",
+                                                    "type": "directory"
+                                                }
+                                            ],
+                                            "id": "2.15.2.7.2.12",
+                                            "name": "src",
+                                            "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\src",
+                                            "type": "directory"
+                                        },
+                                        {
+                                            "id": "2.15.2.7.2.13",
+                                            "name": "tsconfig.json",
+                                            "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\tsconfig.json",
+                                            "type": "file"
+                                        },
+                                        {
+                                            "id": "2.15.2.7.2.14",
+                                            "name": "webpack.config.js",
+                                            "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master\\webpack.config.js",
+                                            "type": "file"
+                                        }
+                                    ],
+                                    "id": "2.15.2.7.2",
+                                    "name": "Webgl-Erosion-master",
+                                    "path": "\\simulations\\erosion\\shaders\\Webgl-Erosion-master",
+                                    "type": "directory"
+                                }
+                            ],
+                            "id": "2.15.2.7",
+                            "name": "shaders",
+                            "path": "\\simulations\\erosion\\shaders",
+                            "type": "directory"
+                        },
+                        {
+                            "id": "2.15.2.8",
+                            "name": "TouchDesignerCrash.2022.22650.1.dmp",
+                            "path": "\\simulations\\erosion\\TouchDesignerCrash.2022.22650.1.dmp",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.15.2.9",
+                            "name": "TouchDesignerCrash.2022.22650.2.dmp",
+                            "path": "\\simulations\\erosion\\TouchDesignerCrash.2022.22650.2.dmp",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.15.2.10",
+                            "name": "TouchDesignerCrash.2022.22650.3.dmp",
+                            "path": "\\simulations\\erosion\\TouchDesignerCrash.2022.22650.3.dmp",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.15.2.11",
+                            "name": "TouchDesignerCrash.2022.22650.4.dmp",
+                            "path": "\\simulations\\erosion\\TouchDesignerCrash.2022.22650.4.dmp",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.15.2.12",
+                            "name": "TouchDesignerCrash.2022.22650.5.dmp",
+                            "path": "\\simulations\\erosion\\TouchDesignerCrash.2022.22650.5.dmp",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.15.2.13",
+                            "name": "TouchDesignerCrash.2022.22650.6.dmp",
+                            "path": "\\simulations\\erosion\\TouchDesignerCrash.2022.22650.6.dmp",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.15.2",
+                    "name": "erosion",
+                    "path": "\\simulations\\erosion",
+                    "type": "directory"
+                },
+                {
+                    "id": "2.15.3",
+                    "name": "erosion_wip.tox",
+                    "path": "\\simulations\\erosion_wip.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.15.4",
+                    "name": "flocking_2d.tox",
+                    "path": "\\simulations\\flocking_2d.tox",
+                    "type": "file"
+                },
+                {
+                    "children": [
+                        {
+                            "id": "2.15.5.1",
+                            "name": "FLUID_SIMULATION.tox",
+                            "path": "\\simulations\\fluid simulation\\FLUID_SIMULATION.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.15.5.2",
+                            "name": "FLUID_SIMULATION_ORIG.tox",
+                            "path": "\\simulations\\fluid simulation\\FLUID_SIMULATION_ORIG.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.15.5.3",
+                            "name": "FLUID_SIMULATION_PERFORMANCE.tox",
+                            "path": "\\simulations\\fluid simulation\\FLUID_SIMULATION_PERFORMANCE.tox",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.15.5",
+                    "name": "fluid simulation",
+                    "path": "\\simulations\\fluid simulation",
+                    "type": "directory"
+                },
+                {
+                    "id": "2.15.6",
+                    "name": "Physarum.tox",
+                    "path": "\\simulations\\Physarum.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.15.7",
+                    "name": "Physarum_DB.tox",
+                    "path": "\\simulations\\Physarum_DB.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.15.8",
+                    "name": "physarum_lake.tox",
+                    "path": "\\simulations\\physarum_lake.tox",
+                    "type": "file"
+                }
+            ],
+            "id": "2.15",
+            "name": "simulations",
+            "path": "\\simulations",
+            "type": "directory"
+        },
+        {
+            "children": [
+                {
+                    "id": "2.16.1",
+                    "name": "Box_Texture.tox",
+                    "path": "\\SOPs\\Box_Texture.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.16.2",
+                    "name": "circular_well.tox",
+                    "path": "\\SOPs\\circular_well.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.16.3",
+                    "name": "grid_fit_in.tox",
+                    "path": "\\SOPs\\grid_fit_in.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.16.4",
+                    "name": "looping_noise_path.tox",
+                    "path": "\\SOPs\\looping_noise_path.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.16.5",
+                    "name": "mirror_sop.tox",
+                    "path": "\\SOPs\\mirror_sop.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.16.6",
+                    "name": "Quadrilateral_SOP.tox",
+                    "path": "\\SOPs\\Quadrilateral_SOP.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.16.7",
+                    "name": "README.md",
+                    "path": "\\SOPs\\README.md",
+                    "type": "file"
+                },
+                {
+                    "id": "2.16.8",
+                    "name": "scatter_sop.tox",
+                    "path": "\\SOPs\\scatter_sop.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.16.9",
+                    "name": "sop_triangulate_dat.tox",
+                    "path": "\\SOPs\\sop_triangulate_dat.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.16.10",
+                    "name": "Torus_SOP.tox",
+                    "path": "\\SOPs\\Torus_SOP.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.16.11",
+                    "name": "triange_mesh.tox",
+                    "path": "\\SOPs\\triange_mesh.tox",
+                    "type": "file"
+                }
+            ],
+            "id": "2.16",
+            "name": "SOPs",
+            "path": "\\SOPs",
+            "type": "directory"
+        },
+        {
+            "children": [
+                {
+                    "id": "2.17.1",
+                    "name": "a_b_tester.tox",
+                    "path": "\\TOPs\\a_b_tester.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.2",
+                    "name": "barrel_blur.tox",
+                    "path": "\\TOPs\\barrel_blur.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.3",
+                    "name": "barrel_blur_chroma.tox",
+                    "path": "\\TOPs\\barrel_blur_chroma.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.4",
+                    "name": "bitonic_mergesort.tox",
+                    "path": "\\TOPs\\bitonic_mergesort.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.5",
+                    "name": "bitonic_mergesort_columns.tox",
+                    "path": "\\TOPs\\bitonic_mergesort_columns.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.6",
+                    "name": "bitonic_mergesort_columns_fixed_bottom.tox",
+                    "path": "\\TOPs\\bitonic_mergesort_columns_fixed_bottom.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.7",
+                    "name": "bitpacking.toe",
+                    "path": "\\TOPs\\bitpacking.toe",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.8",
+                    "name": "bloom_filter.tox",
+                    "path": "\\TOPs\\bloom_filter.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.9",
+                    "name": "Blur_and_Composite.tox",
+                    "path": "\\TOPs\\Blur_and_Composite.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.10",
+                    "name": "BrushStrokes.toe",
+                    "path": "\\TOPs\\BrushStrokes.toe",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.11",
+                    "name": "brushstrokes.tox",
+                    "path": "\\TOPs\\brushstrokes.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.12",
+                    "name": "censor_bar.tox",
+                    "path": "\\TOPs\\censor_bar.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.13",
+                    "name": "color_correction_curve_interface.tox",
+                    "path": "\\TOPs\\color_correction_curve_interface.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.14",
+                    "name": "color_palette_bch_trigonometric.tox",
+                    "path": "\\TOPs\\color_palette_bch_trigonometric.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.15",
+                    "name": "color_palette_rgb_trigonometric.tox",
+                    "path": "\\TOPs\\color_palette_rgb_trigonometric.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.16",
+                    "name": "cosine_palette.tox",
+                    "path": "\\TOPs\\cosine_palette.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.17",
+                    "name": "cube_map_cache.tox",
+                    "path": "\\TOPs\\cube_map_cache.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.18",
+                    "name": "curl_noise_4D.tox",
+                    "path": "\\TOPs\\curl_noise_4D.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.19",
+                    "name": "depth_of_field_hexagon.tox",
+                    "path": "\\TOPs\\depth_of_field_hexagon.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.20",
+                    "name": "depth_of_field_octagon.tox",
+                    "path": "\\TOPs\\depth_of_field_octagon.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.21",
+                    "name": "depth_of_field_pixelflow.toe",
+                    "path": "\\TOPs\\depth_of_field_pixelflow.toe",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.22",
+                    "name": "dither_style.tox",
+                    "path": "\\TOPs\\dither_style.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.23",
+                    "name": "edgeFeedback_panick.tox",
+                    "path": "\\TOPs\\edgeFeedback_panick.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.24",
+                    "name": "edge_feedback.tox",
+                    "path": "\\TOPs\\edge_feedback.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.25",
+                    "name": "equirectangular_littleplanet_shader.tox",
+                    "path": "\\TOPs\\equirectangular_littleplanet_shader.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.26",
+                    "name": "feedback_HSV.tox",
+                    "path": "\\TOPs\\feedback_HSV.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.27",
+                    "name": "feedback_loop_simple_aggregate.tox",
+                    "path": "\\TOPs\\feedback_loop_simple_aggregate.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.28",
+                    "name": "feedback_TOP_blur.tox",
+                    "path": "\\TOPs\\feedback_TOP_blur.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.29",
+                    "name": "feedback_TOP_cross.tox",
+                    "path": "\\TOPs\\feedback_TOP_cross.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.30",
+                    "name": "feedback_TOP_over.tox",
+                    "path": "\\TOPs\\feedback_TOP_over.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.31",
+                    "name": "flood_fill.tox",
+                    "path": "\\TOPs\\flood_fill.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.32",
+                    "name": "frozen_image_detector.tox",
+                    "path": "\\TOPs\\frozen_image_detector.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.33",
+                    "name": "gaussian_blur.tox",
+                    "path": "\\TOPs\\gaussian_blur.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.34",
+                    "name": "generative_structure.tox",
+                    "path": "\\TOPs\\generative_structure.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.35",
+                    "name": "GLSL_Cell_Rotate.tox",
+                    "path": "\\TOPs\\GLSL_Cell_Rotate.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.36",
+                    "name": "GLSL_Kaleidoscope.tox",
+                    "path": "\\TOPs\\GLSL_Kaleidoscope.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.37",
+                    "name": "GLSL_Lookup_Table.tox",
+                    "path": "\\TOPs\\GLSL_Lookup_Table.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.38",
+                    "name": "GLSL_Noise_Tile.tox",
+                    "path": "\\TOPs\\GLSL_Noise_Tile.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.39",
+                    "name": "GLSL_pack_packer.tox",
+                    "path": "\\TOPs\\GLSL_pack_packer.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.40",
+                    "name": "GLSL_pack_unpacker.tox",
+                    "path": "\\TOPs\\GLSL_pack_unpacker.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.41",
+                    "name": "GLSL_Replicator.tox",
+                    "path": "\\TOPs\\GLSL_Replicator.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.42",
+                    "name": "glsl_solarize.tox",
+                    "path": "\\TOPs\\glsl_solarize.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.43",
+                    "name": "gridlines.tox",
+                    "path": "\\TOPs\\gridlines.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.44",
+                    "name": "hexagonal_grid.tox",
+                    "path": "\\TOPs\\hexagonal_grid.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.45",
+                    "name": "hilbert_curve_2D.tox",
+                    "path": "\\TOPs\\hilbert_curve_2D.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.46",
+                    "name": "hilbert_curve_3D.tox",
+                    "path": "\\TOPs\\hilbert_curve_3D.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.47",
+                    "name": "HSV_Lookup.tox",
+                    "path": "\\TOPs\\HSV_Lookup.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.48",
+                    "name": "image_collage_cutout_single_img.tox",
+                    "path": "\\TOPs\\image_collage_cutout_single_img.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.49",
+                    "name": "image_instance.tox",
+                    "path": "\\TOPs\\image_instance.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.50",
+                    "name": "img_collage.tox",
+                    "path": "\\TOPs\\img_collage.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.51",
+                    "name": "jump_flood_algorithm.toe",
+                    "path": "\\TOPs\\jump_flood_algorithm.toe",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.52",
+                    "name": "jump_flood_algorithm.tox",
+                    "path": "\\TOPs\\jump_flood_algorithm.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.53",
+                    "name": "kohonen.tox",
+                    "path": "\\TOPs\\kohonen.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.54",
+                    "name": "Kuwahara_paint.tox",
+                    "path": "\\TOPs\\Kuwahara_paint.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.55",
+                    "name": "lookup_n_inputs.tox",
+                    "path": "\\TOPs\\lookup_n_inputs.tox",
+                    "type": "file"
+                },
+                {
+                    "children": [
+                        {
+                            "id": "2.17.56.1",
+                            "name": "lookup_no_effect.png",
+                            "path": "\\TOPs\\lookup_tables\\lookup_no_effect.png",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.17.56.2",
+                            "name": "lookup_selective_color.png",
+                            "path": "\\TOPs\\lookup_tables\\lookup_selective_color.png",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.17.56",
+                    "name": "lookup_tables",
+                    "path": "\\TOPs\\lookup_tables",
+                    "type": "directory"
+                },
+                {
+                    "id": "2.17.57",
+                    "name": "map_img_to_points.tox",
+                    "path": "\\TOPs\\map_img_to_points.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.58",
+                    "name": "Mask_Effect.tox",
+                    "path": "\\TOPs\\Mask_Effect.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.59",
+                    "name": "median_3x3.tox",
+                    "path": "\\TOPs\\median_3x3.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.60",
+                    "name": "median_5x5.tox",
+                    "path": "\\TOPs\\median_5x5.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.61",
+                    "name": "motion_blur.toe",
+                    "path": "\\TOPs\\motion_blur.toe",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.62",
+                    "name": "mouse_drawing.tox",
+                    "path": "\\TOPs\\mouse_drawing.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.63",
+                    "name": "movie_out_with_alpha_bottom.tox",
+                    "path": "\\TOPs\\movie_out_with_alpha_bottom.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.64",
+                    "name": "noise_equirectangular.tox",
+                    "path": "\\TOPs\\noise_equirectangular.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.65",
+                    "name": "noise_looper.toe",
+                    "path": "\\TOPs\\noise_looper.toe",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.66",
+                    "name": "noise_tiler_1D.tox",
+                    "path": "\\TOPs\\noise_tiler_1D.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.67",
+                    "name": "noise_tiler_2D.tox",
+                    "path": "\\TOPs\\noise_tiler_2D.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.68",
+                    "name": "normalize_rgba_indep.tox",
+                    "path": "\\TOPs\\normalize_rgba_indep.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.69",
+                    "name": "normals_pass_edge_detect.toe",
+                    "path": "\\TOPs\\normals_pass_edge_detect.toe",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.70",
+                    "name": "opalescence.tox",
+                    "path": "\\TOPs\\opalescence.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.71",
+                    "name": "OpticalFlow.tox",
+                    "path": "\\TOPs\\OpticalFlow.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.72",
+                    "name": "palette_gen.tox",
+                    "path": "\\TOPs\\palette_gen.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.73",
+                    "name": "particlesGpu_flocking.tox",
+                    "path": "\\TOPs\\particlesGpu_flocking.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.74",
+                    "name": "particle_displacement.tox",
+                    "path": "\\TOPs\\particle_displacement.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.75",
+                    "name": "particle_system_edge_feedback_render1.tox",
+                    "path": "\\TOPs\\particle_system_edge_feedback_render1.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.76",
+                    "name": "PBR_Render.tox",
+                    "path": "\\TOPs\\PBR_Render.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.77",
+                    "name": "perceptual_color.tox",
+                    "path": "\\TOPs\\perceptual_color.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.78",
+                    "name": "pixel_sorting.toe",
+                    "path": "\\TOPs\\pixel_sorting.toe",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.79",
+                    "name": "polygon_mesh_distort.tox",
+                    "path": "\\TOPs\\polygon_mesh_distort.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.80",
+                    "name": "procedural_terrain_heightmap.tox",
+                    "path": "\\TOPs\\procedural_terrain_heightmap.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.81",
+                    "name": "README.md",
+                    "path": "\\TOPs\\README.md",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.82",
+                    "name": "RGB_Separate.tox",
+                    "path": "\\TOPs\\RGB_Separate.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.83",
+                    "name": "SlitScanSimplest.tox",
+                    "path": "\\TOPs\\SlitScanSimplest.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.84",
+                    "name": "smoothstep_cross_impages.tox",
+                    "path": "\\TOPs\\smoothstep_cross_impages.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.85",
+                    "name": "step_ladder_top.tox",
+                    "path": "\\TOPs\\step_ladder_top.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.86",
+                    "name": "terrain_render.tox",
+                    "path": "\\TOPs\\terrain_render.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.87",
+                    "name": "tex_3d_multi_in.tox",
+                    "path": "\\TOPs\\tex_3d_multi_in.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.88",
+                    "name": "transform_point_cloud.tox",
+                    "path": "\\TOPs\\transform_point_cloud.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.89",
+                    "name": "trigger_chop_vis.tox",
+                    "path": "\\TOPs\\trigger_chop_vis.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.90",
+                    "name": "turing_pattern.tox",
+                    "path": "\\TOPs\\turing_pattern.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.91",
+                    "name": "velocity_line_visualizer.tox",
+                    "path": "\\TOPs\\velocity_line_visualizer.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.92",
+                    "name": "velocity_surface_shader.tox",
+                    "path": "\\TOPs\\velocity_surface_shader.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.17.93",
+                    "name": "windowGlass_voroni.tox",
+                    "path": "\\TOPs\\windowGlass_voroni.tox",
+                    "type": "file"
+                }
+            ],
+            "id": "2.17",
+            "name": "TOPs",
+            "path": "\\TOPs",
+            "type": "directory"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "id": "2.18.1.1",
+                            "name": "audioTime.tox",
+                            "path": "\\Utilities\\Audio\\audioTime.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.18.1.2",
+                            "name": "beatDetection.tox",
+                            "path": "\\Utilities\\Audio\\beatDetection.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.18.1.3",
+                            "name": "live_audio_analysis.tox",
+                            "path": "\\Utilities\\Audio\\live_audio_analysis.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.18.1.4",
+                            "name": "low_pass_analysis.tox",
+                            "path": "\\Utilities\\Audio\\low_pass_analysis.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.18.1.5",
+                            "name": "README.md",
+                            "path": "\\Utilities\\Audio\\README.md",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.18.1.6",
+                            "name": "stems_load_and_process.tox",
+                            "path": "\\Utilities\\Audio\\stems_load_and_process.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.18.1.7",
+                            "name": "stem_audio_analysis.tox",
+                            "path": "\\Utilities\\Audio\\stem_audio_analysis.tox",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.18.1",
+                    "name": "Audio",
+                    "path": "\\Utilities\\Audio",
+                    "type": "directory"
+                },
+                {
+                    "id": "2.18.2",
+                    "name": "av_control.tox",
+                    "path": "\\Utilities\\av_control.tox",
+                    "type": "file"
+                },
+                {
+                    "children": [
+                        {
+                            "id": "2.18.3.1",
+                            "name": "README.md",
+                            "path": "\\Utilities\\Beat\\README.md",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.18.3.2",
+                            "name": "tap_tempo.tox",
+                            "path": "\\Utilities\\Beat\\tap_tempo.tox",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.18.3",
+                    "name": "Beat",
+                    "path": "\\Utilities\\Beat",
+                    "type": "directory"
+                },
+                {
+                    "id": "2.18.4",
+                    "name": "calculate_compact_tex_size.tox",
+                    "path": "\\Utilities\\calculate_compact_tex_size.tox",
+                    "type": "file"
+                },
+                {
+                    "children": [
+                        {
+                            "id": "2.18.5.1",
+                            "name": ".gitignore",
+                            "path": "\\Utilities\\Camera\\.gitignore",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.18.5.2",
+                            "name": "arcBallCamera_presets.tox",
+                            "path": "\\Utilities\\Camera\\arcBallCamera_presets.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.18.5.3",
+                            "name": "camera_fit_to_focal_length.tox",
+                            "path": "\\Utilities\\Camera\\camera_fit_to_focal_length.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.18.5.4",
+                            "name": "camera_fit_to_height.tox",
+                            "path": "\\Utilities\\Camera\\camera_fit_to_height.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.18.5.5",
+                            "name": "camera_fit_to_width.tox",
+                            "path": "\\Utilities\\Camera\\camera_fit_to_width.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.18.5.6",
+                            "name": "README.md",
+                            "path": "\\Utilities\\Camera\\README.md",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.18.5",
+                    "name": "Camera",
+                    "path": "\\Utilities\\Camera",
+                    "type": "directory"
+                },
+                {
+                    "id": "2.18.6",
+                    "name": "cartesian_to_uv.tox",
+                    "path": "\\Utilities\\cartesian_to_uv.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.18.7",
+                    "name": "color_matrix.tox",
+                    "path": "\\Utilities\\color_matrix.tox",
+                    "type": "file"
+                },
+                {
+                    "children": [
+                        {
+                            "id": "2.18.8.1",
+                            "name": "Emailer.toe",
+                            "path": "\\Utilities\\emailer\\Emailer.toe",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.18.8",
+                    "name": "emailer",
+                    "path": "\\Utilities\\emailer",
+                    "type": "directory"
+                },
+                {
+                    "children": [
+                        {
+                            "id": "2.18.9.1",
+                            "name": ".gitignore",
+                            "path": "\\Utilities\\environment_map_maker\\.gitignore",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.18.9.2",
+                            "name": "Environment_Map_Maker.toe",
+                            "path": "\\Utilities\\environment_map_maker\\Environment_Map_Maker.toe",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.18.9",
+                    "name": "environment_map_maker",
+                    "path": "\\Utilities\\environment_map_maker",
+                    "type": "directory"
+                },
+                {
+                    "children": [
+                        {
+                            "id": "2.18.10.1",
+                            "name": "batch_encode_frames.py",
+                            "path": "\\Utilities\\ffmpeg_encoding\\batch_encode_frames.py",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.18.10.2",
+                            "name": "batch_encode_movies.py",
+                            "path": "\\Utilities\\ffmpeg_encoding\\batch_encode_movies.py",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.18.10",
+                    "name": "ffmpeg_encoding",
+                    "path": "\\Utilities\\ffmpeg_encoding",
+                    "type": "directory"
+                },
+                {
+                    "children": [
+                        {
+                            "id": "2.18.11.1",
+                            "name": "watch_files.py",
+                            "path": "\\Utilities\\file_watching\\watch_files.py",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.18.11",
+                    "name": "file_watching",
+                    "path": "\\Utilities\\file_watching",
+                    "type": "directory"
+                },
+                {
+                    "id": "2.18.12",
+                    "name": "infrastructure1.tox",
+                    "path": "\\Utilities\\infrastructure1.tox",
+                    "type": "file"
+                },
+                {
+                    "id": "2.18.13",
+                    "name": "make_define_statements_GLSL.tox",
+                    "path": "\\Utilities\\make_define_statements_GLSL.tox",
+                    "type": "file"
+                },
+                {
+                    "children": [],
+                    "id": "2.18.14",
+                    "name": "New folder",
+                    "path": "\\Utilities\\New folder",
+                    "type": "directory"
+                },
+                {
+                    "children": [
+                        {
+                            "id": "2.18.15.1",
+                            "name": "color_matrix_for_murmurations.tox",
+                            "path": "\\Utilities\\palettes\\color_matrix_for_murmurations.tox",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.18.15",
+                    "name": "palettes",
+                    "path": "\\Utilities\\palettes",
+                    "type": "directory"
+                },
+                {
+                    "id": "2.18.16",
+                    "name": "pbr_editor.tox",
+                    "path": "\\Utilities\\pbr_editor.tox",
+                    "type": "file"
+                },
+                {
+                    "children": [
+                        {
+                            "id": "2.18.17.1",
+                            "name": "td_pip.tox",
+                            "path": "\\Utilities\\Python\\td_pip.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.18.17.2",
+                            "name": "td_pip_ef09e0fd27.tox",
+                            "path": "\\Utilities\\Python\\td_pip_ef09e0fd27.tox",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.18.17",
+                    "name": "Python",
+                    "path": "\\Utilities\\Python",
+                    "type": "directory"
+                },
+                {
+                    "id": "2.18.18",
+                    "name": "spherical_to_cartesian1.tox",
+                    "path": "\\Utilities\\spherical_to_cartesian1.tox",
+                    "type": "file"
+                },
+                {
+                    "children": [
+                        {
+                            "id": "2.18.19.1",
+                            "name": "autosave.tox",
+                            "path": "\\Utilities\\template and startup files\\autosave.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.18.19.2",
+                            "name": "custom_startup_file_v1.1.toe",
+                            "path": "\\Utilities\\template and startup files\\custom_startup_file_v1.1.toe",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.18.19.3",
+                            "name": "custom_startup_file_v1.toe",
+                            "path": "\\Utilities\\template and startup files\\custom_startup_file_v1.toe",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.18.19.4",
+                            "name": "parameters_for_template_comp.tox",
+                            "path": "\\Utilities\\template and startup files\\parameters_for_template_comp.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.18.19.5",
+                            "name": "project_template.tox",
+                            "path": "\\Utilities\\template and startup files\\project_template.tox",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.18.19",
+                    "name": "template and startup files",
+                    "path": "\\Utilities\\template and startup files",
+                    "type": "directory"
+                },
+                {
+                    "id": "2.18.20",
+                    "name": "templatize.tox",
+                    "path": "\\Utilities\\templatize.tox",
+                    "type": "file"
+                },
+                {
+                    "children": [
+                        {
+                            "id": "2.18.21.1",
+                            "name": ".gitignore",
+                            "path": "\\Utilities\\touchdesigner_logger\\.gitignore",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.18.21.2",
+                            "name": "logging_demo.toe",
+                            "path": "\\Utilities\\touchdesigner_logger\\logging_demo.toe",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.18.21.3",
+                            "name": "logging_demo_fifo.toe",
+                            "path": "\\Utilities\\touchdesigner_logger\\logging_demo_fifo.toe",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.18.21",
+                    "name": "touchdesigner_logger",
+                    "path": "\\Utilities\\touchdesigner_logger",
+                    "type": "directory"
+                },
+                {
+                    "children": [
+                        {
+                            "id": "2.18.22.1",
+                            "name": "preset_Cuelist_441e15f6e2.tox",
+                            "path": "\\Utilities\\ui\\preset_Cuelist_441e15f6e2.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.18.22.2",
+                            "name": "preset_Dashboard_081f759e5c.tox",
+                            "path": "\\Utilities\\ui\\preset_Dashboard_081f759e5c.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.18.22.3",
+                            "name": "preset_Manager_664d25658a.tox",
+                            "path": "\\Utilities\\ui\\preset_Manager_664d25658a.tox",
+                            "type": "file"
+                        },
+                        {
+                            "id": "2.18.22.4",
+                            "name": "preset_Mapper_0800abe45f.tox",
+                            "path": "\\Utilities\\ui\\preset_Mapper_0800abe45f.tox",
+                            "type": "file"
+                        }
+                    ],
+                    "id": "2.18.22",
+                    "name": "ui",
+                    "path": "\\Utilities\\ui",
+                    "type": "directory"
+                },
+                {
+                    "id": "2.18.23",
+                    "name": "unroll_pixels_to_chop.tox",
+                    "path": "\\Utilities\\unroll_pixels_to_chop.tox",
+                    "type": "file"
+                }
+            ],
+            "id": "2.18",
+            "name": "Utilities",
+            "path": "\\Utilities",
+            "type": "directory"
+        },
+        {
+            "id": "2.19",
+            "name": "Videos - Shortcut.lnk",
+            "path": "\\Videos - Shortcut.lnk",
+            "type": "file"
+        }
+    ],
+    "id": "2",
+    "localRoot": "app.userPaletteFolder",
+    "name": "My Components",
+    "palette": "My Components",
+    "path": "app.userPaletteFolder",
+    "type": "directory"
+}
