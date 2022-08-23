@@ -1,5 +1,4 @@
 
-// Example Pixel Shader
 
 uniform float uOffset;
 uniform float uSimplexPeriod;
@@ -19,20 +18,6 @@ uniform vec3 d;
 #define TWOPI 6.28318530718
 
 
-vec4 cosinePalette(vec3 t)
-{
-
-	vec4 color = vec4(a + b * cos(TWOPI * (c * t  + d)), 1);
-	// color *= data.a;
-
-	// vec4 color =/ vec4(1.0);
-	// fragColor = TDOutputSwizzle(vec4(color));
-	// paletteOut = TDOutputSwizzle(vec4(a + b * cos(TWOPI * (c * vUV.s + d)), 1));
-
-	return color;
-
-}
-
 void main()
 {
 	// vec4 noise = texture(sTD2DInputs[0], vUV.st);
@@ -43,11 +28,14 @@ void main()
 
 	signal = abs(signal);
 	signal = uOffset - signal;
-	signal *= signal;
+	signal *= signal; //added for preference
+
+	//initialize
 	float result = signal;
 	float weight = 1;
 	float frequency = 1.0;
-	vec4 color = cosinePalette(vec3(result));
+	vec4 color = vec4(0);
+	//begin accumulating octaves
 	for(int i=0; i<uOctaves; i++){
 		point.x *= uLacunarity;
 		point.y *= uLacunarity;
@@ -62,12 +50,7 @@ void main()
 		frequency *= uLacunarity;
 	}
 
-	// vec4 result = vec4(noise);
-	// vec4 color = vec4(1.0);
-
-
-	color += mod(result, 0.9)*.051;
-
+	color += mod(result, 0.9)*.051; //tweak for aesthetics 
 
 	color.xyz *= result;
 	fragColor = TDOutputSwizzle(color);
